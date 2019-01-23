@@ -1,1 +1,4 @@
 .idea/
+SkyEng/3-CodeReview/vendor/
+SkyEng/3-CodeReview/solution/cache/*
+SkyEng/3-CodeReview/solution/logs/*
